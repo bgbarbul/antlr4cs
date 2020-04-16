@@ -36,3 +36,4 @@ tool/target/
 
 # Ignore generated test suite
 Generated/
+*.json
